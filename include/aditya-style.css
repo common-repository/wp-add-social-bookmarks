@@ -1,0 +1,22 @@
+<style type="text/css">
+    /* Add Social Bookmars Plugin By Aditya Subawa @ www.adityawebs.com */
+    ul.aditya-social { list-style:none; margin:15px auto;display:inline-block; }
+    ul.aditya-social li { display:inline; float:left; background-repeat:no-repeat; }
+    ul.aditya-social li a { display:block; width:48px; height:48px; padding-right:10px; position:relative; text-decoration:none; }
+    ul.aditya-social li a strong { font-weight:normal; position:absolute; left:20px; top:-1px; color:#fff; padding:3px; z-index:9999; text-shadow:1px 1px 0 rgba(0, 0, 0, 0.75); background-color:rgba(0, 0, 0, 0.7); -moz-border-radius:3px; -moz-box-shadow: 0 0 5px rgba(0, 0, 0, 0.5); -webkit-border-radius:3px; -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.5); border-radius:3px; box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);}
+    ul.aditya-social li.aditya-facebook { background-image:url("/wp-content/plugins/wp-add-socialbookmarks/images/facebook.png"); }
+    ul.aditya-social li.aditya-twitter { background-image:url("/wp-content/plugins/wp-add-socialbookmarks/images/twitter.png"); }
+    ul.aditya-social li.aditya-stumbleupon { background-image:url("/wp-content/plugins/wp-add-socialbookmarks/images/stumbleupon.png"); }
+    ul.aditya-social li.aditya-digg { background-image:url("/wp-content/plugins/wp-add-socialbookmarks/images/digg.png"); }
+    ul.aditya-social li.aditya-delicious { background-image:url("/wp-content/plugins/wp-add-socialbookmarks/images/delicious.png"); }
+    ul.aditya-social li.aditya-yahoo { background-image:url("/wp-content/plugins/wp-add-socialbookmarks/images/yahoo.png"); }
+    ul.aditya-social li.aditya-reddit { background-image:url("/wp-content/plugins/wp-add-socialbookmarks/images/reddit.png"); }
+    ul.aditya-social li.aditya-technorati { background-image:url("/wp-content/plugins/wp-add-socialbookmarks/images/technorati.png"); }
+    #aditya-cssanime:hover li { opacity:0.2; }
+    #aditya-cssanime li { -webkit-transition-property: opacity; -webkit-transition-duration: 500ms;-moz-transition-property: opacity; -moz-transition-duration: 500ms; }
+    #aditya-cssanime li a strong { opacity:0; -webkit-transition-property: opacity, top; -webkit-transition-duration: 300ms; -moz-transition-property: opacity, top; -moz-transition-duration: 300ms; }
+    #aditya-cssanime li:hover { opacity:1; }
+    #aditya-cssanime li:hover a strong { opacity:1; top:-10px; }
+    /* Add Social Bookmarks Plugins By Aditya Subawa @ www.adityawebs.com */
+    </style>
+
